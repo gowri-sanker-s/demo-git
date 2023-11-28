@@ -1,4 +1,4 @@
 # demo-git
 This is my first Git Repo
 <br>
-Author: Gowri Sanker S
+Author: Gowri Sanker Sajeev
